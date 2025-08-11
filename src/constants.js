@@ -90,7 +90,6 @@ export const experiences = [
       "JavaScript",
       "React JS",
       "Tailwind CSS",
-      "MongoDb",
       " Next Js",
     ],
   },
@@ -100,7 +99,7 @@ export const experiences = [
     role: "Fullstack Engineer",
     company: "Volumetree ",
     date: "July 2023 - March 2024",
-    desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
+    desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
     skills: ["ReactJS", "Redux", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
   },
 ];
